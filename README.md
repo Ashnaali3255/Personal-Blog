@@ -1,31 +1,26 @@
 <div align="center">
 
-  <h2><b>Fast-Lane-Racer</b><br><small>A Car Booking Website</small></h2>
+  <h2><b>The Personal Blog</b><br><small>A Blog Website</small></h2>
 
 </div>
 
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Fast-Lane-Racer ](#-Fast-Lane-Racer-)
+- [📖 The Personal Blog ](#-The-Personal-Blog-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [ React Frontend ](#-react-frontend-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
     - [Deployment](#deployment)
-  - [Authors ](#-authors-)
+  - [Author ](#-author-)
   - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
 
 # 📖 The Personal Blog <a name="about-project"></a>
